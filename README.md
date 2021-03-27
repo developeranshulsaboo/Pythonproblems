@@ -20,3 +20,8 @@ Here you will find the solution for python problems that are displayed which I s
    Key points for the solution are.
    1. Ord function will give you ASCII value for letter F
    2. To Print 420 either you can add the ord function 6 times / multiply it
+
+### IO 13 Reasons why
+   Key points of the solution are.
+   1. Use split function while taking input rather than taking 3 inputs one by one
+   2. To simplify the swap declare another variable d
