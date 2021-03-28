@@ -25,3 +25,8 @@ Here you will find the solution for python problems that are displayed which I s
    Key points of the solution are.
    1. Use split function while taking input rather than taking 3 inputs one by one
    2. To simplify the swap declare another variable d
+
+### HR List Comprehensions
+   Key points of the solution are.
+   1. Mentioned in the program
+   2. X + 1 is used because range starts indexing from 0 and we want to cover x,z,y as well
