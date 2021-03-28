@@ -30,3 +30,6 @@ Here you will find the solution for python problems that are displayed which I s
    Key points of the solution are.
    1. Mentioned in the program
    2. X + 1 is used because range starts indexing from 0 and we want to cover x,z,y as well
+
+### HR Runner up Score
+   Key points mentioned in the program refer to the program
