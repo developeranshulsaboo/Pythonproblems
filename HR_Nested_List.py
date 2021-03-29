@@ -19,9 +19,9 @@ dictionary_values = dictionary.values() #getting the values from dictionary
 second_lowest_grade = sorted(list(set(dictionary_values)))[1] #Find the second lowest number in dictionary_values and storing in list form
 
 second_lowest_list = []
-for key, value in dictionary.items():
+for key, value in dictionary.items(): #iterating the values of dictionary items
     if value == second_lowest_grade:
-        second_lowest_list.append(key)
+        second_lowest_list.append(key) 
 second_lowest_list.sort()
 for name in second_lowest_list:
     print(name)
