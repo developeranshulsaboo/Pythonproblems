@@ -1,7 +1,7 @@
 '''
 Author: Anshul Saboo
-Date: 28/03/2021
-Problem: HR_Runner Up Score
+Date: 29/03/2021
+Problem: HR_Nested List
 Platform: HackerRank
 
 '''
