@@ -1,3 +1,11 @@
+'''
+Author: Anshul Saboo
+Date: 28/03/2021
+Problem: HR_Runner Up Score
+Platform: HackerRank
+
+'''
+
 #Declaraing dictionary which is empty
 dictionary = {}
 
