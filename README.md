@@ -41,3 +41,6 @@ Here you will find the solution for python problems that are displayed which I s
 
 ### HR Tuples
   Key points mentioned in the code
+  
+### HR Swapcase
+  Key points mentioned in the code
