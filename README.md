@@ -38,3 +38,6 @@ Here you will find the solution for python problems that are displayed which I s
    Key points of the solution are.
    1. First convert the string command to list using split()
    2. Use if-else as switch case is not available in python
+
+### HR Tuples
+  Key points mentioned in the code
