@@ -44,3 +44,8 @@ Here you will find the solution for python problems that are displayed which I s
   
 ### HR Swapcase
   Key points mentioned in the code
+  
+### HR split and join
+   key points of the solution are
+   1. Convert string to array using split() function
+   2. Convert the array again into string using join and use synatax "-".join()
