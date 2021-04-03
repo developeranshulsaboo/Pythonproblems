@@ -56,3 +56,6 @@ Here you will find the solution for python problems that are displayed which I s
 
 ### HR mutations
    Key points are mentioned in the code itself
+   
+### HR string validators
+   Key points are mentioned in the code itself
