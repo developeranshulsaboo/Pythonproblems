@@ -12,7 +12,7 @@ def solve(s):
         print(s.split())
         # replace each letter by capital 
         s = s.replace(word, word.capitalize())
-
+ 
     return s
 
 if __name__ == '__main__':
